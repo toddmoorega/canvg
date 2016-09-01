@@ -28,5 +28,8 @@
   "dependencies": {
     "rgbcolor": "0.0.4",
     "stackblur": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/gabelerner/canvg/issues"
   }
 }
